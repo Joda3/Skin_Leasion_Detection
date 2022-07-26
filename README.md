@@ -14,3 +14,6 @@ This is a slide deck for further information:
 
 
 If you are trying the code on your machine, make sure you change all paths to your system accordingly :) 
+
+Your first attempt for a model (skincancer:cnn.py) didnt work as we hoped, so we tried to tune a model using the ressouces of google colab. The link takes you to the tuned model: 
+https://colab.research.google.com/drive/1LkQlXH-3Q0-kkfqPOBwjTN0BsyCIN4FA?usp=sharing
