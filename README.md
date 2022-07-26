@@ -6,3 +6,7 @@ This is a project to detect skin leasions using ML in python. The project is par
 
 https://user-images.githubusercontent.com/77493429/181080816-bcb949b4-b75d-4057-98ff-4755fbf36080.mp4
 
+
+
+Here is the presentation of our project:
+[Prasentation.DS.Entwicklungen.pdf](https://github.com/Joda3/Skin_Leasion_Detection/files/9192291/Prasentation.DS.Entwicklungen.pdf)
