@@ -11,3 +11,6 @@ https://user-images.githubusercontent.com/77493429/181080816-bcb949b4-b75d-4057-
 
 This is a slide deck for further information:
 [Prasentation.DS.Entwicklungen.pdf](https://github.com/Joda3/Skin_Leasion_Detection/files/9192291/Prasentation.DS.Entwicklungen.pdf)
+
+
+If you are trying the code on your machine, make sure you change all paths to your system accordingly :) 
